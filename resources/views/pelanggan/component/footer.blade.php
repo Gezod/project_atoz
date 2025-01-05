@@ -53,7 +53,5 @@
 <div class="text-center p-lg-4 mt-3">
 
     AtoZ</i>
-=======
     </i>
-nnknkln
 </div>
