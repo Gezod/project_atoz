@@ -3,8 +3,13 @@
         <div class="header-title fs-4 mb-2 font-weight-bolder">
             TOKO ONLINE KITA
         </div>
+
         <p>We are passionate about reducing fashion waste and making second-hand shopping enjoyable and accessible.
             Our platform offers a diverse collection of pre-loved items, ensuring quality and authenticity in every piece..</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus repudiandae optio a illo
+            accusantium deserunt officiis distinctio suscipit ut eveniet, deleniti non aut eaque, ipsum
+            quaerat, natus nisi asperiores amet.</p>
+
     </div>
     <div class="title-middle w-25">
         <div class="header-title fs-4 mb-2 font-weight-bolder">
@@ -21,7 +26,16 @@
             </li>
             <li>
                 Jl. Ketintang No.156, Ketintang, Kec. Gayungan, Surabaya, Jawa Timur 60231
+
+
+                </p>
             </li>
+            <li>
+                <p>091231231232</p>
+            </li>
+            <li>
+                p2312321312313
+    </li>
         </ul>
     </div>
     <div class="title-sosmed w-30">
@@ -37,5 +51,9 @@
     </div>
 </div>
 <div class="text-center p-lg-4 mt-3">
+
     AtoZ</i>
+=======
+    </i>
+nnknkln
 </div>
