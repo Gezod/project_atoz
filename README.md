@@ -29,4 +29,4 @@ Proyek ini dikerjakan oleh:
 ## Cara Berkontribusi
 1. Clone repository ini:  
    ```bash
-   git clone https://github.com/username/thrifting-store.git
+   git clone (https://github.com/Gezod/project_atoz.git)
