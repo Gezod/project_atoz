@@ -112,7 +112,11 @@
                             <i class="fas fa-print"></i>
                             print struck
                         </button>
-                    </div>
+                        {{-- <button type="pay-button" class="btn btn-success w-100">
+                            <i class="fas fa-print"></i>
+                            Bayar
+                        </button>
+                    </div> --}}
                 </div>
             </div>
         </div>
