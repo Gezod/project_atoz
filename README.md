@@ -24,8 +24,7 @@ Proyek ini dikerjakan oleh:
 ## Teknologi yang Digunakan
 - **Framework Backend**: Laravel  
 - **Database**: MySQL  
-- **Frontend**: Bootstrap dan Vue.js  
-- **Tool Deployment**: Docker, WSL2, dan Ngrok  
+- **Frontend**: Bootstrap dan Vue.js 
 
 ## Cara Berkontribusi
 1. Clone repository ini:  
