@@ -4,11 +4,10 @@
             TOKO ONLINE KITA
         </div>
 
-        <p>We are passionate about reducing fashion waste and making second-hand shopping enjoyable and accessible.
-            Our platform offers a diverse collection of pre-loved items, ensuring quality and authenticity in every piece..</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus repudiandae optio a illo
-            accusantium deserunt officiis distinctio suscipit ut eveniet, deleniti non aut eaque, ipsum
-            quaerat, natus nisi asperiores amet.</p>
+        <p>Selamat datang di AtoZ, platform thrift store online yang menyediakan pilihan terbaik pakaian pria dan wanita
+            dewasa dengan harga terjangkau dan kualitas yang terjamin.</p>
+        <p>AtoZ berkomitmen untuk mendukung gaya hidup berkelanjutan dengan mengedepankan prinsip reuse dan recycle melalui produk-produk thrift berkualitas tinggi.
+             Dengan berbagai pilihan model terkini, Anda bisa menemukan fashion favorit tanpa harus mengorbankan dompet ataupun lingkungan.</p>
 
     </div>
     <div class="title-middle w-25">
